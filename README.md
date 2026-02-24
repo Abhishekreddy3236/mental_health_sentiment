@@ -262,20 +262,3 @@ Dashboard opens at **http://localhost:8501**
 ## 👤 Author
 
 **Abhishek Reddy Kotha**
-Academic Project — Social Media Big Data Analytics for Public Sentiment Monitoring
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgements
-
-- [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140) — Go et al., Stanford University
-- [Reddit Mental Health Dataset](https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data) — Kaggle
-- [BERTopic](https://maartengr.github.io/BERTopic/) — Maarten Grootendorst
-- [HuggingFace Transformers](https://huggingface.co/) — for DistilBERT and emotion models
-- [HackerNews API](https://github.com/HackerNews/API) — Y Combinator
