@@ -1,0 +1,1 @@
+{"dataset": "Sentiment140", "total_records": 1600000, "train_records": 1280209, "test_records": 319791, "accuracy": 0.7672, "training_time_seconds": 29.7, "features": 50000, "algorithm": "TF-IDF (50K features) + LR \u2014 Spark MLlib"}

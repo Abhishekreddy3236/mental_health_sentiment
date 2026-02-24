@@ -1,0 +1,1 @@
+{"spark_ml_accuracy": 0.8668, "training_samples": 1783, "test_samples": 383, "algorithm": "TF-IDF + Logistic Regression (Spark MLlib)", "features": 10000}
